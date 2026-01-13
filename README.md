@@ -22,18 +22,10 @@ A collection of awesome things
 
 ---
 
-## CodePen / Frontend / UI
-
-- https://codepen.io/AlikinVV/pen/ELePGq
-- https://codepen.io/allistairlee/pen/ELeKMZ
-- https://codepen.io/Munamohamed94/pen/VxGEbp
-- https://codepen.io/boldstar/pen/pKPoZX
-
----
-
 ## Angular / Frontend
 
 - https://angular.io/tutorial/toh-pt5
+- https://www.angular.love
 
 ---
 
@@ -43,11 +35,29 @@ A collection of awesome things
 - https://www.thomaslevesque.com/2018/04/17/hosting-an-asp-net-core-2-application-on-a-raspberry-pi/
 - http://cqrs.nu/Faq/tutorial/cs/01-design
 - http://devman.pl/techniki/zasady-solid-wstep/
+- https://tomaszsokol.pl/wizualizacja-architektury-zgodnie-z-modelem-c4-podejscie-praktyczne
+- https://c4model.com/
 
 ### .NET architecture
 - [Equinox Project](https://github.com/EduardoPires/EquinoxProject) - project is implement the most common used technologies and share with the technical community the best way to develop great applications with .NET
+- https://github.com/jasontaylordev
+- https://github.com/jasontaylordev/CleanArchitecture/tree/main
 
+### PHP
+#### General
+- https://devanswers.co/how-to-upgrade-from-php-7-x-to-php-8-on-ubuntu-apache
+#### LARAVEL
+- https://laravel.com/docs/12.x
+- https://bootcamp.laravel.com/deploying
+- [Polish laravel community](https://laravelpolska.com/)
 
+## AI / LLM
+- https://www.relume.io/
+- https://linuxblog.io/install-deepseek-linux/
+
+--- 
+##CMS / Baas solutions
+- https://statamic.com/
 ---
 
 ## Drupal / CMS
@@ -62,6 +72,7 @@ A collection of awesome things
 - https://free3d.com/3d-models/characters
 - https://app.pluralsight.com/library/courses/unity-2d-fundamentals-character-control-m1
 - https://eduweb.pl/programowanie-i-dev/tworzenie-gier/kurs-unity-tworzenie-gier-2d.html
+- https://github.com/dwhiffing/idle-game
 
 ---
 
@@ -79,7 +90,15 @@ A collection of awesome things
 - http://www.thinstuff.com/products/xpvs-server/
 - https://www.ibik.ru/
 - https://www.ovh.pl/serwery_dedykowane/backup-storage.xml
+- https://www.ultimatebootcd.com
+- https://wtware.com
 
+## Hosting
+- https://www.arubacloud.com/
+
+---
+## Docker
+- https://www.portainer.io
 ---
 
 ## Communities / Humor / Internet
@@ -130,6 +149,45 @@ A collection of awesome things
 - https://www.extradom.pl/
 - https://www.apetytnaswiat.pl/
 
+
+---
+## Game
+### Retro
+- http://www.arcadepunks.com/retropie-roms-downloads-packs
+### Factorio
+#### General
+- https://factorioprints.com
+  
+### Factorio Mods
+
+#### Highlights
+
+- [Weekly Highlights | Factorio Mods](https://mods.factorio.com/highlights/2023-12-11)
+
+#### Gameplay & Enemies
+
+- [Heavy Waves](https://mods.factorio.com/mod/heavy-waves)
+- [Rampant Arsenal](https://mods.factorio.com/mod/RampantArsenal)
+
+#### Map & Exploration
+
+- [Long Range Radar (Balanced)](https://mods.factorio.com/mod/Long_Range_Radar_Balanced)
+
+#### Logistics & Infrastructure
+
+- [Asphalt Roads](https://mods.factorio.com/mod/AsphaltPaving)
+- [Water Poles](https://mods.factorio.com/mod/water-poles)
+- [Text Plates](https://mods.factorio.com/mod/textplates)
+
+#### Signals & Automation
+
+- [AAI Signal Transmission](https://mods.factorio.com/mod/aai-signal-transmission)
+
+#### Oil & Chemistry
+
+- [Coal Gasification Update](https://mods.factorio.com/mod/coal-gasification-update)
+- [Advanced Oil](https://mods.factorio.com/mod/AdvancedOil)
+
 ---
 
 ## Misc – Bo Tak
@@ -141,3 +199,7 @@ A collection of awesome things
 - https://freedom.eurid.eu/pl/
 - https://tracker.ce-ma.pl/
 - https://www.maxipizza.pl/
+- https://pixabay.com/
+- [pixel art](https://floor796.com/)
+- [Brick link](https://www.bricklink.com) - lego to buy
+- https://www.orbitrekguru.com

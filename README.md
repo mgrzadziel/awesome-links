@@ -2,6 +2,26 @@
 
 A collection of awesome things 
 
+## Other awesome link that i use
+- https://github.com/quozd/awesome-dotnet
+- https://patrickjs.github.io/awesome-angular/
+
+---
+
+## Low Code
+### Mendix
+- https://www.mendix.com
+- https://www.meetup.com/mendix-poland
+
+### Outsystems
+#### General
+- https://www.outsystems.com
+#### Learn
+- https://www.youtube.com/watch?v=MV8lD34LRrw
+- https://www.youtube.com/watch?v=gNyWIeJYfG0
+
+---
+
 ## CodePen / Frontend / UI
 
 - https://codepen.io/AlikinVV/pen/ELePGq
@@ -19,9 +39,14 @@ A collection of awesome things
 
 ## .NET / Backend / Architecture
 
+### General
 - https://www.thomaslevesque.com/2018/04/17/hosting-an-asp-net-core-2-application-on-a-raspberry-pi/
 - http://cqrs.nu/Faq/tutorial/cs/01-design
 - http://devman.pl/techniki/zasady-solid-wstep/
+
+### .NET architecture
+- [Equinox Project](https://github.com/EduardoPires/EquinoxProject) - project is implement the most common used technologies and share with the technical community the best way to develop great applications with .NET
+
 
 ---
 
@@ -66,9 +91,7 @@ A collection of awesome things
 
 ## Shopping / Hardware / Licenses / Random Zakupy
 
-- https://www.scdkey.com/windows-server-16-standard-key-global_2574-20.html
 - https://pl.scdkey.com/
-- https://allegro.pl/oferta/energooszczedny-dell-wyse-zx0-amd-4-8ssd-tiny-os-13861276117
 - https://www.hpe.com/
 
 ---
@@ -106,7 +129,6 @@ A collection of awesome things
 - https://pl.1lib.pl/
 - https://www.extradom.pl/
 - https://www.apetytnaswiat.pl/
-- https://polandelects.com/
 
 ---
 
